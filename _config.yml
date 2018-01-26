@@ -26,7 +26,11 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: jekyll-theme-slate
+=======
+theme: minima
+>>>>>>> parent of 8483b19... Set theme jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
